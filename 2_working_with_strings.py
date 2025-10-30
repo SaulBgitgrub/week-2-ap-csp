@@ -55,6 +55,26 @@ print(chicago_mayor[0])
 print(chicago_mayor[6])
 #get the "s" in the string
 print(chicago_mayor[4])
+#Get the "son" from the string
+print(chicago_mayor[ 4 : ])
+#Get the sctring John
+print(chicago_mayor[ 0: -3])
+print(chicago_mayor[ : 4])
+#Get ohns
+print(chicago_mayor[ 1: -2])
+#When he gets one character/letter
+#We call is string indexing
+#When we get a chunk of letters
+#From a string, its called
+#string slicing
+
+#git add .
+#git commit -m "string slicing"
+#git push origin
+
+#The first number in slicing is inclusing
+#The second number is exclusive
+
 #  # Indexing: Access characters by position (0-based index)
 # print("First character:", phrase[0])  # Output: P
 # print("Last character:", phrase[-1])  # Output: !
