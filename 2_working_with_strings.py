@@ -72,6 +72,19 @@ print(chicago_mayor[ 1: -2])
 #git commit -m "string slicing"
 #git push origin
 
+phrase3 = "Supercagifragilistic"
+#Uppercase it
+#Slice super out of it into a different variable
+#Slice cagi out of phrase 3 into its own variable
+#print out the last letter
+print(phrase.upper())
+print(phrase3[-1])
+cag = phrase3[5:9]
+print(cag)
+
+cut = phrase3[0:5]
+print(cut)
+
 #The first number in slicing is inclusing
 #The second number is exclusive
 
