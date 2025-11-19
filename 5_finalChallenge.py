@@ -17,3 +17,7 @@
 # Well, try to do it on your own, and if it gets complicated, don’t worry, we will solve it together in the next lecture.
 
 # Cheers and good luck.
+
+W1 = input("What is the first word that comes to mind when you think of beer: ")
+W2 = input("What is an word best describes bear: ")
+print(f"'{W1} {W2}'")

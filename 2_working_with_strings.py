@@ -57,7 +57,7 @@ print(chicago_mayor[6])
 print(chicago_mayor[4])
 #Get the "son" from the string
 print(chicago_mayor[ 4 : ])
-#Get the sctring John
+#Get the string John
 print(chicago_mayor[ 0: -3])
 print(chicago_mayor[ : 4])
 #Get ohns
